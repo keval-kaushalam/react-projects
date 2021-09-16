@@ -1,16 +1,16 @@
 {
   "tasks": [
     {
-      "name": "Keval",
-      "dob": "05/07/1997",
-      "reminder": true,
+      "first_name": "Keval",
+      "last_name": "05/07/1997",
+      "email": "keval@redefinesolutions.com",
       "id": 1
     },
     {
-      "name": "Nitin",
-      "dob": "05/07/1996",
-      "reminder": true,
-      "id": 2
+      "first_name": "Nitin",
+      "last_name": "05/07/1997",
+      "email": "Nitin@redefinesolutions.com",
+      "id": 1
     }
   ]
 }
